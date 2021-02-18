@@ -1,0 +1,24 @@
+{
+  "subreddits": [
+    "test"
+  ],
+  "keywords": [
+    "test",
+    "test2"
+  ],
+  "redditors": [
+    "not_a_real_person"
+  ],
+  "settings": {
+    "messaging_enabled": true,
+    "post_to_subreddit_enabled": false,
+    "post_to_subreddit": "test",
+    "delay": {
+      "days": 0,
+      "hours": 24,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "threshold": 5
+  }
+}
